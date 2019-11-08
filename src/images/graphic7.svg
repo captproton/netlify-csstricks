@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 19 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-2725,-683)">
+        <g id="Background" transform="matrix(4.16667,0,0,4.16667,0,0)">
+            <g>
+                <clipPath id="_clip1">
+                    <rect x="0" y="1.434" width="748.712" height="498.566" clip-rule="nonzero"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <g opacity="0.2">
+                        <g transform="matrix(1,0,0,1,240.891,218.811)">
+                            <path d="M0,-228.599C7.285,-166.357 57.78,-115.315 116.135,-92.469C174.489,-69.624 239.473,-70.724 301.62,-78.779C334.906,-83.092 375.27,-86.587 395.452,-59.769C416.775,-31.434 399.357,10.17 410.377,43.877C419.946,73.15 451.407,92.048 482.205,91.869C513.002,91.69 542.103,74.936 562.381,51.756C582.66,28.577 595.032,-0.507 603.748,-30.046C615.627,-70.307 621.288,-112.991 614.747,-154.455C608.207,-195.919 588.699,-236.128 556.499,-263.058C518.243,-295.052 466.545,-305.551 416.828,-309.47C275.03,-320.647 129.976,-285.949 8.585,-211.815" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="Objects" transform="matrix(4.16667,0,0,4.16667,0,0)">
+            <g transform="matrix(0.24,-0,-0,0.24,654,163.92)">
+            </g>
+            <g transform="matrix(0.24,-0,-0,0.24,654,163.92)">
+            </g>
+            <g transform="matrix(-0.643048,-0.765826,-0.765826,0.643048,655.608,165.341)">
+                <path d="M-0.647,-1.646C-0.59,-1.638 -0.535,-1.632 -0.479,-1.625C0.766,-1.469 0.603,0.361 -0.647,0.309C-0.704,0.307 -0.759,0.304 -0.816,0.302C-2.076,0.249 -1.9,-1.802 -0.647,-1.646" style="fill:rgb(110,50,129);fill-rule:nonzero;"/>
+            </g>
+        </g>
+        <g id="Designed-by-freepik" serif:id="Designed by freepik">
+        </g>
+    </g>
+</svg>

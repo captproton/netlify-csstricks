@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 39 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-2274,-670)">
+        <g id="Background" transform="matrix(4.16667,0,0,4.16667,0,0)">
+            <g>
+                <clipPath id="_clip1">
+                    <rect x="0" y="1.434" width="748.712" height="498.566" clip-rule="nonzero"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <g opacity="0.2">
+                        <g transform="matrix(1,0,0,1,240.891,218.811)">
+                            <path d="M0,-228.599C7.285,-166.357 57.78,-115.315 116.135,-92.469C174.489,-69.624 239.473,-70.724 301.62,-78.779C334.906,-83.092 375.27,-86.587 395.452,-59.769C416.775,-31.434 399.357,10.17 410.377,43.877C419.946,73.15 451.407,92.048 482.205,91.869C513.002,91.69 542.103,74.936 562.381,51.756C582.66,28.577 595.032,-0.507 603.748,-30.046C615.627,-70.307 621.288,-112.991 614.747,-154.455C608.207,-195.919 588.699,-236.128 556.499,-263.058C518.243,-295.052 466.545,-305.551 416.828,-309.47C275.03,-320.647 129.976,-285.949 8.585,-211.815" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="Objects" transform="matrix(4.16667,0,0,4.16667,0,0)">
+            <g transform="matrix(0.24,-0,-0,0.24,545.76,160.8)">
+            </g>
+            <g transform="matrix(0.24,-0,-0,0.24,545.76,160.8)">
+            </g>
+            <g transform="matrix(1,0,0,1,550.309,168.981)">
+                <path d="M0,-5.748C-1.316,-5.729 -2.249,-5.558 -3.158,-4.539C-3.992,-3.605 -4.125,-2.346 -3.882,-1.168C-3.307,1.618 0.069,2.588 2.349,1.405C4.762,0.152 5.049,-2.844 4.025,-5.074C2.773,-7.798 -0.823,-8.336 -3.188,-6.897C-4.251,-6.25 -3.324,-4.752 -2.229,-5.258C-0.877,-5.884 0.776,-5.897 1.962,-4.916C3.325,-3.788 3.334,-1.938 2.169,-0.701C1.084,0.451 -0.557,0.289 -1.607,-0.76C-2.877,-2.029 -1.819,-4.761 0,-4.891C0.546,-4.929 0.559,-5.756 0,-5.748" style="fill:rgb(138,169,252);fill-rule:nonzero;"/>
+            </g>
+        </g>
+        <g id="Designed-by-freepik" serif:id="Designed by freepik">
+        </g>
+    </g>
+</svg>
