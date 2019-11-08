@@ -1,4 +1,7 @@
 # Netlify / CSS-Tricks
+This site is heavily modified, used as a base for another site.
+
+Originally Chris Coyier wrote this:  
 
 Just something to tinker with while tinkering with Netlify.
 
