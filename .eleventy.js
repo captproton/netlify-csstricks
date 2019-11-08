@@ -13,7 +13,7 @@ module.exports = function(config) {
     },
 
     // some handy options
-    templateFormats : ["njk", "md"],
+    // templateFormats : ["njk", "md"],
     passthroughFileCopy: true
 
   };
